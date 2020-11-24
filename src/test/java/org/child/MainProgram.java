@@ -19,7 +19,9 @@ public class MainProgram extends LibGlobal{
 		WebElement txtUserName = locatorId("username");
 		lib.valuesFromExcel(txtUserName, "Sheet2", 1, 0);
 		
-	
+	    System.out.println("hiiii");
+	    System.out.println("first day work");
+	    System.out.println("work is going to completed");
 		
 		
 		
