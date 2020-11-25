@@ -43,4 +43,8 @@ public class Junit extends LibGlobal{
 		lib.singleTap(lp.getRegBtn());
 		}
 	
+	public static void main(String[] args) {
+		System.out.println("Tranav started the project ");
+		System.out.println("Tranav completed");
+	}
 }
